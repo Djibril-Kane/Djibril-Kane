@@ -18,4 +18,4 @@ Développement d'une application web permettant aux utilisateurs de prendre des 
 
 ## Statistiques GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=Djibril-Kane&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Djibril-Kane&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
