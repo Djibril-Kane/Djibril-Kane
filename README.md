@@ -6,11 +6,11 @@ Titulaire d'une Licence en Génie Logiciel et Systèmes d'Information, je suis a
 
 ## Derniers projets
 
-- **Plateforme d'affiliation CAPITALYA**
-  Développement d'une plateforme web pour un programme d'affiliation à trois niveaux permettant aux utilisateurs de gagner de l'argent en invitant d'autres personnes, avec un frontend en **React** et **Tailwind CSS** pour une interface moderne et responsive, et un backend en **Express.js** pour gérer les inscriptions, les commissions et les transactions.
+- **Plateforme d'affiliation CAPITALYA**  
+Développement d'une plateforme web pour un programme d'affiliation à trois niveaux permettant aux utilisateurs de gagner de l'argent en invitant d'autres personnes, avec un frontend en **React** et **Tailwind CSS** pour une interface moderne et responsive, et un backend en **Express.js** pour gérer les inscriptions, les commissions et les transactions.
 
 - **Plateforme de prise de rendez-vous en ligne**  
-  Développement d'une application web permettant aux utilisateurs de prendre des rendez-vous en ligne avec des médecins. Utilisation de **Next.js** et **Tailwind CSS** pour un frontend moderne et responsive, et de **Laravel** pour le backend, avec une gestion des utilisateurs, des horaires de rendez-vous et des notifications.
+Développement d'une application web permettant aux utilisateurs de prendre des rendez-vous en ligne avec des médecins. Utilisation de **Next.js** et **Tailwind CSS** pour un frontend moderne et responsive, et de **Laravel** pour le backend, avec une gestion des utilisateurs, des horaires de rendez-vous et des notifications.
 
 ## Compétences
 
